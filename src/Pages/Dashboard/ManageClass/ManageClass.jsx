@@ -14,7 +14,7 @@ const ManageClass = () => {
 
     const handleApproved = pendingClass => {
         console.log(pendingClass._id);
-        fetch(`http://localhost:5000/pendingClass/approved/${pendingClass._id}`, {
+        fetch(`language-school-server-tawny.vercel.app/pendingClass/approved/${pendingClass._id}`, {
             method: 'PATCH'
         })
             .then(res => res.json())
@@ -22,7 +22,7 @@ const ManageClass = () => {
                 console.log(data)
                 const approvedData = { Name: pendingClass.Name, Image: pendingClass.Image, Available_seats: pendingClass.Available_seats, Instructor_name: pendingClass.Instructor_name, Price: pendingClass.Price, classItemId: pendingClass._id }
                 if (data.modifiedCount) {
-                    fetch('http://localhost:5000/course', {
+                    fetch('language-school-server-tawny.vercel.app/course', {
                         method: 'POST',
                         headers: {
                             'content-type': 'application/json'
@@ -55,7 +55,7 @@ const ManageClass = () => {
             confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
             if (result.isConfirmed) {
-                fetch(`http://localhost:5000/pendingClass/${id}`, {
+                fetch(`language-school-server-tawny.vercel.app/pendingClass/${id}`, {
                     method: 'DELETE'
                 })
                     .then(res => res.json())

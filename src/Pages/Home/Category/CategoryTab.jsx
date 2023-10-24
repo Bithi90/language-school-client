@@ -24,7 +24,7 @@ const CategoryTab = ({ data }) => {
         console.log(data);
         if (user && user.email) {
             const selectedItem = { courseName, image, price, rating, instractorName, classItemId: _id, email: user.email };
-            fetch('http://localhost:5000/cart', {
+            fetch('language-school-server-tawny.vercel.app/cart', {
                 method: 'POST',
                 headers: {
                     'content-type': 'application/json'

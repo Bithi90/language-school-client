@@ -14,7 +14,7 @@ const AddClass = () => {
         const formData = new FormData();
         formData.append('Image', data.Image)
         const item = { Image: data.Image, Name: data.Name, category: data.category, Price: data.Price, Available_seats: data.Available_seats, Instructor_name: user.displayName, status: 'pending' }
-        fetch('http://localhost:5000/pendingClass', {
+        fetch('language-school-server-tawny.vercel.app/pendingClass', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

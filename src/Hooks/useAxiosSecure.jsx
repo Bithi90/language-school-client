@@ -5,7 +5,7 @@ import axios from "axios";
 
 
 const axiosSecure = axios.create({
-    baseURL: 'http://localhost:5000', 
+    baseURL: 'language-school-server-tawny.vercel.app', 
   });
 
 const useAxiosSecure = () => {
