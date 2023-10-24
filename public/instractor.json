@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Richard Hill",
+        "image":"https://i.ibb.co/QMJzpd9/mason-wilkes-TMg-QMXogls-M-unsplash.jpg",
+        "email":"richard@gmail.com"
+    },
+    {
+        "name":"Kimberly Richiez",
+        "image":"https://i.ibb.co/TWt9FZT/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+        "email":"kimberly@gmail.com"
+    },
+    {
+        "name":"Dylan Taylor",
+        "image":"https://i.ibb.co/q1N9wY6/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+        "email":"dylan@gmail.com"
+    },
+    {
+        "name":"Danny Awesome",
+        "image":"https://i.ibb.co/ZS9fCBw/alan-zimmerman-ZIp-KHXJLUUg-unsplash.jpg",
+        "email":"danny@gmail.com"
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "courseName": "English For Children",
+        "instractorName":"Kimberly Richiez",
+        "price":"Free",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/t4fXpPT/intelligent-primary-students-class.jpg",
+        "description":"This is a free English lesson for kids taken from our absolute beginner English course for ESL kids. Try this free sample lesson from this level.",
+        "available_seats":"80",
+        "Length":"18 Week",
+        "category_id":"1"
+    },
+    {
+        "courseName": "Intensive Course",
+        "instractorName":"Dylan Taylor",
+        "price":"320",
+        "rating":"3.5",
+        "image": "https://i.ibb.co/BGXSVxS/cheerful-students-library.jpg",
+        "description":"During this class, students study four English skills - reading, writing, speaking and listening - through a “Communicative Language Teaching” methodology. New grammar patterns are learned in the context of a conversation or a real-life situation.",
+        "available_seats":"60",
+        "Length":"23 Week",
+        "category_id":"1"
+    },
+    {
+        "courseName": "Language Training",
+        "instractorName":"Kimberly Richiez",
+        "price":"150",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/HPZQ2KP/learner-lesson.jpg",
+        "description":"English language courses help international students gain entry into a vocational course, foundation programme or undergraduate degree. Courses can last from one week or up to a year, and teaching incorporates the key skills of reading, writing, speaking, and listening.",
+        "available_seats":"50",
+        "Length":"3 Week",
+        "category_id":"1"
+    },
+    {
+        "courseName": "Spoken English",
+        "instractorName":"Dylan Taylor",
+        "price":"160",
+        "rating":"3.0",
+        "image": "https://i.ibb.co/grMcNvj/brooke-cagle-u-HVRv-Dr7pg-unsplash.jpg",
+        "description":"This course emphasizes the development of fluency and intelligibility in spoken English. Through individual and group activities, students work on improving pronunciation, practicing conversation strategies and delivering oral presentations.",
+        "available_seats":"40",
+        "Length":"14 Week",
+        "category_id":"1"
+    },
+    {
+        "courseName": "30-60-90 Business",
+        "instractorName":"Richard Hill",
+        "price":"200",
+        "rating":"5.0",
+        "image": "https://i.ibb.co/H7Q4524/classroom-exam.jpg",
+        "description":"A 30-60-90 day plan is meant to establish guidelines for you to achieve short- and long-term goals in a new job. Use SMART goals to map out how you'll meet new coworkers, learn your new role and organization and start key projects.",
+        "available_seats":"90",
+        "Length":"24 Week",
+        "category_id":"2"
+    },
+    {
+        "courseName": "Mastering Grammer",
+        "instractorName":"Danny Awesome",
+        "price":"250",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/ssmHD1N/guy-lesson.jpg",
+        "description":"A solid grasp of grammar is the foundational skill of copyediting and proofreading across all media. In this course, review the eight principal parts of speech and gain an understanding of how they work together syntactically to form sentences.",
+        "available_seats":"20",
+        "Length":"25 Week",
+        "category_id":"2"
+    },
+    {
+        "courseName": "Lingvo Diving",
+        "instractorName":"Dylan Taylor",
+        "price":"300",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/Tt0MbBS/lecture-notes.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"65",
+        "Length":"17 Week",
+        "category_id":"2"
+    },
+    {
+        "courseName": "Mini-МВA",
+        "instractorName":"Kimberly Richiez",
+        "price":"100",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/fdRScdb/pretty-brunette-reading-textbook.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"90",
+        "Length":"8 Week",
+        "category_id":"2"
+    },
+    {
+        "courseName": "Mini-МВA",
+        "instractorName":"Richard Hill",
+        "price":"100",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/JmSr2fQ/learning-college.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"90",
+        "Length":"9 Week",
+        "category_id":"3"
+    },
+    {
+        "courseName": "30-60-90 Business",
+        "instractorName":"Richard Hill",
+        "price":"200",
+        "rating":"5.0",
+        "image": "https://i.ibb.co/fdRScdb/pretty-brunette-reading-textbook.jpg",
+        "description":"A 30-60-90 day plan is meant to establish guidelines for you to achieve short- and long-term goals in a new job. Use SMART goals to map out how you'll meet new coworkers, learn your new role and organization and start key projects.",
+        "available_seats":"90",
+        "Length":"7 Week",
+        "category_id":"3"
+    },
+    {
+        "courseName": "Mastering Grammer",
+        "instractorName":"Danny Awesome",
+        "price":"250",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/fdRScdb/pretty-brunette-reading-textbook.jpg",
+        "description":"A solid grasp of grammar is the foundational skill of copyediting and proofreading across all media. In this course, review the eight principal parts of speech and gain an understanding of how they work together syntactically to form sentences.",
+        "available_seats":"20",
+        "Length":"20 Week",
+        "category_id":"3"
+    },
+    {
+        "courseName": "Lingvo Diving",
+        "instractorName":"Dylan Taylor",
+        "price":"300",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/ssmHD1N/guy-lesson.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"65",
+        "Length":"13 Week",
+        "category_id":"3"
+    },
+    {
+        "courseName": "Language Studies",
+        "instractorName":"Kimberly Richiez",
+        "price":"Free",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/t4fXpPT/intelligent-primary-students-class.jpg",
+        "description":"This is a free English lesson for kids taken from our absolute beginner English course for ESL kids. Try this free sample lesson from this level.",
+        "available_seats":"80",
+        "Length":"22 Week",
+        "category_id":"4"
+    },
+    {
+        "courseName": "Intensive Course",
+        "instractorName":"Dylan Taylor",
+        "price":"320",
+        "rating":"3.5",
+        "image": "https://i.ibb.co/BGXSVxS/cheerful-students-library.jpg",
+        "description":"During this class, students study four English skills - reading, writing, speaking and listening - through a “Communicative Language Teaching” methodology. New grammar patterns are learned in the context of a conversation or a real-life situation.",
+        "available_seats":"60",
+        "Length":"26 Week",
+        "category_id":"4"
+    },
+    {
+        "courseName": "Language Training",
+        "instractorName":"Kimberly Richiez",
+        "price":"150",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/HPZQ2KP/learner-lesson.jpg",
+        "description":"English language courses help international students gain entry into a vocational course, foundation programme or undergraduate degree. Courses can last from one week or up to a year, and teaching incorporates the key skills of reading, writing, speaking, and listening.",
+        "available_seats":"50",
+        "Length":"1 Week",
+        "category_id":"4"
+    },
+    {
+        "courseName": "Second Language",
+        "instractorName":"Dylan Taylor",
+        "price":"160",
+        "rating":"3.0",
+        "image": "https://i.ibb.co/Tt0MbBS/lecture-notes.jpg",
+        "description":"This course emphasizes the development of fluency and intelligibility in spoken English. Through individual and group activities, students work on improving pronunciation, practicing conversation strategies and delivering oral presentations.",
+        "available_seats":"40",
+        "Length":"15 Week",
+        "category_id":"4"
+    },
+    {
+        "courseName": "Mastering Grammer",
+        "instractorName":"Danny Awesome",
+        "price":"250",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/ssmHD1N/guy-lesson.jpg",
+        "description":"A solid grasp of grammar is the foundational skill of copyediting and proofreading across all media. In this course, review the eight principal parts of speech and gain an understanding of how they work together syntactically to form sentences.",
+        "available_seats":"20",
+        "Length":"10 Week",
+        "category_id":"5"
+    },
+    {
+        "courseName": "Lingvo Diving",
+        "instractorName":"Dylan Taylor",
+        "price":"300",
+        "rating":"4.0",
+        "image": "https://i.ibb.co/sw1tHsg/phoning-lesson.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"65",
+        "Length":"12 Week",
+        "category_id":"5"
+    },
+    {
+        "courseName": "Mini-МВA",
+        "instractorName":"Kimberly Richiez",
+        "price":"100",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/Tt0MbBS/lecture-notes.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"90",
+        "Length":"33 Week",
+        "category_id":"5"
+    },
+    {
+        "courseName": "Basic Skill",
+        "instractorName":"Richard Hill",
+        "price":"100",
+        "rating":"4.5",
+        "image": "https://i.ibb.co/fdRScdb/pretty-brunette-reading-textbook.jpg",
+        "description":"Management is a set of principles relating to the functions of planning, organizing, directing and controlling, and the application of these principles in harnessing physical, financial, human and informational resources efficiently and effectively to achieve organizational goals.",
+        "available_seats":"90",
+        "Length":"28 Week",
+        "category_id":"5"
+    }
+
+]
