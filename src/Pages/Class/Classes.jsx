@@ -19,7 +19,7 @@ const Classes = ({ item }) => {
         console.log(data);
         if (user && user.email) {
             const selectedItem = { courseName, image, price, rating, instractorName, classItemId: _id, email: user.email };
-            fetch('language-school-server-tawny.vercel.app/cart', {
+            fetch('https://language-server-brown.vercel.app//cart', {
                 method: 'POST',
                 headers: {
                     'content-type': 'application/json'

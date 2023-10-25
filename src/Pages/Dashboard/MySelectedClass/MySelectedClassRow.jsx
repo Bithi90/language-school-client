@@ -22,7 +22,7 @@ const MySelectedClassRow = ({ item, index }) => {
             confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
             if (result.isConfirmed) {
-                fetch(`language-school-server-tawny.vercel.app/cart/${_id}`, {
+                fetch(`https://language-server-brown.vercel.app//cart/${_id}`, {
                     method: 'DELETE'
                 })
                     .then(res => res.json())

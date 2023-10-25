@@ -9,7 +9,7 @@ const Class = () => {
     const [course, setCourse] = useState([]);
 
     useEffect(() => {
-        fetch('language-school-server-tawny.vercel.app/course')
+        fetch('https://language-server-brown.vercel.app//course')
             .then(res => res.json())
             .then(data => setCourse(data));
     }, [])
