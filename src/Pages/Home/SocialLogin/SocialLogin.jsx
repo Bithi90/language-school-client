@@ -18,7 +18,7 @@ const SocialLogin = () => {
                 console.log(loggedUser);
 
                 const saveUser = { name: loggedUser.displayName, email: loggedUser.email, role: 'student' }
-                fetch('https://language-server-brown.vercel.app//user', {
+                fetch(' https://language-server-brown.vercel.app/user', {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json'

@@ -17,7 +17,7 @@ const ManageUser = () => {
 
     const handleMakeAdmin = id => {
         console.log(id);
-        fetch(`https://language-server-brown.vercel.app//user/admin/${id}`, {
+        fetch(` https://language-server-brown.vercel.app/user/admin/${id}`, {
             method: 'PATCH'
         })
             .then(res => res.json())
@@ -40,7 +40,7 @@ const ManageUser = () => {
     const handleMakeInstractor = id => {
         console.log('instractor btn clicked')
         console.log(id);
-        fetch(`https://language-server-brown.vercel.app//user/instructor/${id}`, {
+        fetch(` https://language-server-brown.vercel.app/user/instructor/${id}`, {
             method: 'PATCH'
         })
             .then(res => res.json())
@@ -72,7 +72,7 @@ const ManageUser = () => {
             confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
             if (result.isConfirmed) {
-                fetch(`https://language-server-brown.vercel.app//user/${id}`, {
+                fetch(` https://language-server-brown.vercel.app/user/${id}`, {
                     method: 'DELETE'
                 })
                     .then(res => res.json())
